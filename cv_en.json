@@ -1,0 +1,121 @@
+{
+  "cv_en": {
+    "personal_information": {
+      "name": "Chafik Mouram",
+      "email": "mrmouramito@gmail.com",
+      "location": "Lyon, France",
+      "linkedin": "https://www.linkedin.com/in/chafik-mouram/",
+      "github": "https://github.com/MouramChafik",
+      "website": "https://mouram.netlify.app",
+      "languages": ["French", "English", "Arabic", "Italian"],
+      "driving_license": "Category B"
+    },
+    "title": "QA Software Tester Internship",
+    "summary": "Currently training in software testing and quality assurance, I am looking for a QA Software Tester internship from October 20, 2025 to January 23, 2026. My goal is to apply my technical knowledge, strengthen my skills in functional validation, and actively contribute to software reliability and quality.",
+    "skills": {
+      "technical_skills": {
+        "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Tailwind CSS"],
+        "backend": ["Node.js", "Express", "MySQL", "MongoDB", "RESTful API"],
+        "testing": ["Jest", "Testing Library", "Postman", "Cypress", "Selenium", "Robot Framework"],
+        "tools": ["Git", "GitHub", "Docker", "Visual Studio Code", "Trello", "Figma", "Jira", "Confluence", "QMetry", "Squash", "Agile Method – Scrum"]
+      },
+      "soft_skills": [
+        "Team spirit",
+        "Attention to detail and curiosity",
+        "Strong communication",
+        "Autonomy",
+        "Challenge-driven"
+      ]
+    },
+    "experience": [
+      {
+        "title": "Software Tester",
+        "company": "IT-Akademy",
+        "location": "Campus Région du numérique",
+        "dates": "05/2025 - 01/2026"
+      },
+      {
+        "title": "Web and Mobile Web Developer",
+        "company": "Wild Code School",
+        "location": "Lyon",
+        "dates": "09/2023 - 03/2024"
+      },
+      {
+        "title": "Healthcare Assistant",
+        "company": "La Colline De La Soie",
+        "location": "Lyon",
+        "dates": "07/2018 - 04/2025",
+        "description": [
+          "Hygiene correspondent",
+          "Intern tutor",
+          "Welcoming, informing, and supporting patients",
+          "Verbal and written reporting of activities within the department",
+          "Work organization within a team"
+        ]
+      },
+      {
+        "title": "Healthcare Assistant",
+        "company": "TARGET SERVICES SOLUTIONS SRL",
+        "location": "Brescia (Italy)",
+        "dates": "09/2012 - 10/2013"
+      },
+      {
+        "title": "Healthcare Assistant",
+        "company": "La Cura Coop",
+        "location": "Brescia (Italy)",
+        "dates": "01/2014 - 05/2018"
+      },
+      {
+        "title": "Maintenance Technician",
+        "company": "Luca s.r.l",
+        "location": "Vicenza (Italy)",
+        "dates": "10/2006 - 08/2012",
+        "description": [
+          "Maintenance of retail infrastructures in Northern Italy",
+          "Planning of maintenance operations and technical rounds",
+          "Diagnosis and repair of equipment failures"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Software Tester Training",
+        "institution": "IT-Akademy",
+        "location": "Campus Région du numérique",
+        "dates": "05/2025 - 01/2026"
+      },
+      {
+        "degree": "Web and Mobile Web Developer",
+        "institution": "Wild Code School",
+        "location": "Lyon",
+        "dates": "09/2023 - 03/2024"
+      },
+      {
+        "degree": "IT Management",
+        "institution": "INSTITUT PROSEC",
+        "location": "Beni Mellal, Morocco",
+        "dates": "10/2004 - 09/2006"
+      },
+      {
+        "degree": "High School Diploma",
+        "institution": "Lycée Annasr",
+        "location": "Bradia, Morocco",
+        "dates": "2003"
+      }
+    ],
+    "projects": [
+      {
+        "name": "api-quiz",
+        "description": "A game app to guess a movie title based on an image or a synopsis. Collaborative project during developer training."
+      },
+      {
+        "name": "mechka-food",
+        "description": "Fullstack recipe-sharing app with user-created content, comments, and interactions."
+      },
+      {
+        "name": "Portfolio",
+        "description": "More projects available at: https://mouram.netlify.app"
+      }
+    ]
+  }
+}

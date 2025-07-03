@@ -1,0 +1,121 @@
+{
+  "cv_fr": {
+    "informations_personnelles": {
+      "nom": "Chafik Mouram",
+      "email": "mrmouramito@gmail.com",
+      "localisation": "Lyon, France",
+      "linkedin": "https://www.linkedin.com/in/chafik-mouram/",
+      "github": "https://github.com/MouramChafik",
+      "site_web": "https://mouram.netlify.app",
+      "langues": ["Français", "Anglais", "Arabe", "Italien"],
+      "permis": "Permis B"
+    },
+    "titre": "Stage Testeur logiciel QA",
+    "accroche": "Actuellement en formation dans le domaine du test et de la qualité logicielle, je suis à la recherche d’un stage en tant que testeur logiciel, du 20 octobre 2025 au 23 janvier 2026. Mon objectif est de mettre en pratique mes acquis techniques, d’approfondir mes compétences en validation fonctionnelle et de contribuer activement à l’assurance qualité et à la fiabilité des applications.",
+    "competences": {
+      "competences_techniques": {
+        "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Tailwind CSS"],
+        "backend": ["Node.js", "Express", "MySQL", "MongoDB", "RESTful API"],
+        "tests": ["Jest", "Testing Library", "Postman", "Cypress", "Selenium", "Robot Framework"],
+        "outils": ["Git", "GitHub", "Docker", "Visual Studio Code", "Trello", "Figma", "Jira", "Confluence", "QMetry", "Squash", "Méthode Agile – Scrum"]
+      },
+      "competences_comportementales": [
+        "Esprit d'équipe",
+        "Rigueur et curiosité",
+        "Aisance relationnelle",
+        "Autonomie",
+        "Challenge addict"
+      ]
+    },
+    "experiences": [
+      {
+        "poste": "Testeur Logiciel",
+        "entreprise": "IT-Akademy",
+        "lieu": "Campus Région du numérique",
+        "dates": "05/2025 - 01/2026"
+      },
+      {
+        "poste": "Développeur web et web mobile",
+        "entreprise": "Wild Code School",
+        "lieu": "Lyon",
+        "dates": "09/2023 - 03/2024"
+      },
+      {
+        "poste": "Aide Soignant",
+        "entreprise": "La Colline De La Soie",
+        "lieu": "Lyon",
+        "dates": "07/2018 - 04/2025",
+        "missions": [
+          "Correspondant en hygiène",
+          "Tuteur des stagiaires",
+          "Accueillir, informer et accompagner les patients",
+          "Transmission orale et écrite des activités dans le service",
+          "Organisation du travail au sein d'une équipe"
+        ]
+      },
+      {
+        "poste": "Aide Soignant",
+        "entreprise": "TARGET SERVICES SOLUTIONS SRL",
+        "lieu": "Brescia (Italie)",
+        "dates": "09/2012 - 10/2013"
+      },
+      {
+        "poste": "Aide Soignant",
+        "entreprise": "La Cura Coop",
+        "lieu": "Brescia (Italie)",
+        "dates": "01/2014 - 05/2018"
+      },
+      {
+        "poste": "Agent de Maintenance",
+        "entreprise": "Luca s.r.l",
+        "lieu": "Vicenza (Italie)",
+        "dates": "10/2006 - 08/2012",
+        "missions": [
+          "Maintenance des structures de plusieurs supermarchés en Italie du nord",
+          "Planifier des opérations de maintenance et des rondes techniques",
+          "Établir un diagnostic de panne sur installation et assurer les travaux de réparation"
+        ]
+      }
+    ],
+    "formation": [
+      {
+        "diplome": "Formation Testeur Logiciel",
+        "ecole": "IT-Akademy",
+        "lieu": "Campus Région du numérique",
+        "dates": "05/2025 - 01/2026"
+      },
+      {
+        "diplome": "Développeur web et web mobile",
+        "ecole": "Wild Code School",
+        "lieu": "Lyon",
+        "dates": "09/2023 - 03/2024"
+      },
+      {
+        "diplome": "Informatique de gestion",
+        "ecole": "INSTITUT PROSEC",
+        "lieu": "Beni Mellal, Maroc",
+        "dates": "10/2004 - 09/2006"
+      },
+      {
+        "diplome": "Baccalauréat",
+        "ecole": "Lycée Annasr",
+        "lieu": "Bradia, Maroc",
+        "dates": "2003"
+      }
+    ],
+    "projets": [
+      {
+        "nom": "api-quiz",
+        "description": "Application permettant de deviner le titre d’un film à partir d’une image ou d’un synopsis. Projet collaboratif durant la formation développeur."
+      },
+      {
+        "nom": "mechka-food",
+        "description": "Application fullstack de partage de recettes avec création, commentaires, et interactions entre utilisateurs."
+      },
+      {
+        "nom": "Portfolio",
+        "description": "D'autres projets disponibles sur : https://mouram.netlify.app"
+      }
+    ]
+  }
+}
