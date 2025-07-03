@@ -1,0 +1,119 @@
+{
+  "personal_info": {
+    "name": "Chafik Mouram",
+    "email": "mrmouramito@gmail.com",
+    "location": "Lyon, France",
+    "linkedin": "https://www.linkedin.com/in/chafik-mouram/",
+    "github": "https://github.com/MouramChafik",
+    "website": "https://mouram.netlify.app",
+    "languages": ["Français", "Anglais", "Arabe", "Italien"],
+    "driving_license": "Permis B"
+  },
+  "title": "Stage Testeur logiciel QA",
+  "summary": "Actuellement en formation dans le domaine du test et de la qualité logicielle, je suis à la recherche d’un stage en tant que testeur logiciel, du 20 octobre 2025 au 23 janvier 2026. Mon objectif est de mettre en pratique mes acquis techniques, d’approfondir mes compétences en validation fonctionnelle et de contribuer activement à l’assurance qualité et à la fiabilité des applications.",
+  "skills": {
+    "hard_skills": {
+      "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Tailwind CSS"],
+      "backend": ["Node.js", "Express", "MySQL", "MongoDB", "RESTful API"],
+      "tests": ["Jest", "Testing Library", "Postman", "Cypress", "Selenium", "Robot Framework"],
+      "tools": ["Git", "GitHub", "Docker", "Visual Studio Code", "Trello", "Figma", "Jira", "Confluence", "QMetry", "Squash", "Méthode Agile – Scrum"]
+    },
+    "soft_skills": [
+      "Esprit d'équipe",
+      "Rigueur et curiosité",
+      "Aisance relationnelle",
+      "Autonomie",
+      "Challenge addict"
+    ]
+  },
+  "experiences": [
+    {
+      "title": "Testeur Logiciel",
+      "company": "IT-Akademy",
+      "location": "Campus Région du numérique",
+      "dates": "05/2025 - 01/2026"
+    },
+    {
+      "title": "Développeur web et web mobile",
+      "company": "Wild Code School",
+      "location": "Lyon",
+      "dates": "09/2023 - 03/2024"
+    },
+    {
+      "title": "Aide Soignant",
+      "company": "La Colline De La Soie",
+      "location": "Lyon",
+      "dates": "07/2018 - 04/2025",
+      "description": [
+        "Correspondant en hygiène",
+        "Tuteur des stagiaires",
+        "Accueillir, informer et accompagner les patients",
+        "Transmission orale et écrite des activités dans le service",
+        "Organisation du travail au sein d'une équipe"
+      ]
+    },
+    {
+      "title": "Aide Soignant",
+      "company": "TARGET SERVICES SOLUTIONS SRL",
+      "location": "Brescia (Italie)",
+      "dates": "09/2012 - 10/2013"
+    },
+    {
+      "title": "Aide Soignant",
+      "company": "La Cura Coop",
+      "location": "Brescia (Italie)",
+      "dates": "01/2014 - 05/2018"
+    },
+    {
+      "title": "Agent de Maintenance",
+      "company": "Luca s.r.l",
+      "location": "Vicenza (Italie)",
+      "dates": "10/2006 - 08/2012",
+      "description": [
+        "Maintenance des structures de plusieurs supermarchés en Italie du nord",
+        "Planifier des opérations de maintenance et des rondes techniques",
+        "Établir un diagnostic de panne sur installation et assurer les travaux de réparation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Formation Testeur Logiciel",
+      "institution": "IT-Akademy",
+      "location": "Campus Région du numérique",
+      "dates": "05/2025 - 01/2026"
+    },
+    {
+      "degree": "Développeur web et web mobile",
+      "institution": "Wild Code School",
+      "location": "Lyon",
+      "dates": "09/2023 - 03/2024"
+    },
+    {
+      "degree": "Informatique de gestion",
+      "institution": "INSTITUT PROSEC",
+      "location": "Beni Mellal, Maroc",
+      "dates": "10/2004 - 09/2006"
+    },
+    {
+      "degree": "Baccalauréat",
+      "institution": "Lycée Annasr",
+      "location": "Bradia, Maroc",
+      "dates": "2003"
+    }
+  ],
+  "projects": [
+    {
+      "name": "api-quiz",
+      "description": "Application permettant de deviner le titre d’un film à partir d’une image ou d’un synopsis. Projet collaboratif durant la formation développeur."
+    },
+    {
+      "name": "mechka-food",
+      "description": "Application fullstack de partage de recettes avec création, commentaires, et interactions entre utilisateurs."
+    },
+    {
+      "name": "Portfolio",
+      "description": "D'autres projets disponibles sur : https://mouram.netlify.app"
+    }
+  ]
+}
